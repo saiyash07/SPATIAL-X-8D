@@ -73,3 +73,4 @@ Commit 71: Implement smooth crossfade for play state transition
 Commit 72: Fix search service parsing for stream durations
 Commit 73: Update README setup commands
 Commit 74: Fix Capacitor settings gradle naming
+Commit 75: Remove unused assets and CSS imports
