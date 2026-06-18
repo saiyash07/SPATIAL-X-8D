@@ -71,3 +71,4 @@ Commit 69: Adjust default orbit radius for wider audio imaging
 Commit 70: Fix background webview lifecycle state suspension
 Commit 71: Implement smooth crossfade for play state transition
 Commit 72: Fix search service parsing for stream durations
+Commit 73: Update README setup commands
