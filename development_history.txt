@@ -15,3 +15,4 @@ Commit 13: Fix playback state crash when no track loaded
 Commit 14: Update Android build.gradle dependencies to stable
 Commit 15: Enable hardware acceleration in Electron window
 Commit 16: Fix audio panner node coordinate alignment
+Commit 17: Reduce visualizer smoothing factor for crisp response
