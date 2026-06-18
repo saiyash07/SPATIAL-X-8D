@@ -18,3 +18,4 @@ Commit 16: Fix audio panner node coordinate alignment
 Commit 17: Reduce visualizer smoothing factor for crisp response
 Commit 18: Add native volume sync with Android media controller
 Commit 19: Fix layout breaking on ultra-wide monitors
+Commit 20: Improve play/pause state synchronization across wrappers
