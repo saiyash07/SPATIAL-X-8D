@@ -57,3 +57,4 @@ Commit 55: Correct panner orientation vectors on rotation reset
 Commit 56: Fix sleep timer notification countdown timer UI
 Commit 57: Verify background playback permissions on launch
 Commit 58: Implement robust exception logger for MainActivity
+Commit 59: Fix mobile safari tap target sizes
