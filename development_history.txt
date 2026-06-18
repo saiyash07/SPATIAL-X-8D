@@ -50,3 +50,4 @@ Commit 48: Fix audio output channel config for mono files
 Commit 49: Implement local caching for fetched lyrics text
 Commit 50: Fix context menu overlay z-index bug
 Commit 51: Handle CORS errors on album art images elegantly
+Commit 52: Fix notification channel category priority in Android
