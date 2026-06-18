@@ -42,3 +42,4 @@ Commit 40: Fix Electron build packaging scripts for macOS
 Commit 41: Fix custom progress bar scrubbing offset on mobile touch
 Commit 42: Resolve memory leak in Web Audio context listeners
 Commit 43: Implement fallback to iframe player when audio stream fails
+Commit 44: Fix Android gradle wrapper version configuration
