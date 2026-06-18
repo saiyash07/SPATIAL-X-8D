@@ -9,3 +9,4 @@ Commit 7: Adjust rotation speed slider limits
 Commit 8: Fix audio source node leak when loading new track
 Commit 9: Fix light mode contrast on search input
 Commit 10: Implement persistent search history cache
+Commit 11: Fix Capacitor native event listener cleanup
