@@ -37,3 +37,4 @@ Commit 35: Fix WebView crash due to excessive logs
 Commit 36: Update Capacitor plugins to latest versions
 Commit 37: Fix canvas resizing logic on window change
 Commit 38: Implement sleep timer background pause integration
+Commit 39: Add exception handling for local yt-dlp execution
