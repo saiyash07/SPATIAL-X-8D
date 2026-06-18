@@ -27,3 +27,4 @@ Commit 25: Prevent audio overlapping during quick track skipping
 Commit 26: Implement automated retry for public Piped instances
 Commit 27: Fix dark mode color variables inside lyrics container
 Commit 28: Optimize SVG icons load times inside React player
+Commit 29: Add failover mechanism when Web Audio context is blocked
