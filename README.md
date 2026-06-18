@@ -99,7 +99,4 @@ Compile the web frontend and bundle it into a standalone Electron macOS applicat
 npm run build:mac
 ```
 
----
 
-## 📜 License
-This project is open-source under the [MIT License](LICENSE).
