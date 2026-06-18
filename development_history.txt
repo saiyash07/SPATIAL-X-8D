@@ -34,3 +34,4 @@ Commit 32: Fix main process window focus state on macOS launch
 Commit 33: Adjust default reverb decay time for spatial depth
 Commit 34: Fix input debounce in song search bar
 Commit 35: Fix WebView crash due to excessive logs
+Commit 36: Update Capacitor plugins to latest versions
