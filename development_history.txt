@@ -11,3 +11,4 @@ Commit 9: Fix light mode contrast on search input
 Commit 10: Implement persistent search history cache
 Commit 11: Fix Capacitor native event listener cleanup
 Commit 12: Optimize marquee text scroll velocity
+Commit 13: Fix playback state crash when no track loaded
