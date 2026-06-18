@@ -6,3 +6,4 @@ Commit 4: Fix WebView CORS bypass on Android 13+
 Commit 5: Resolve MediaSession synchronization delay
 Commit 6: Improve visualizer frequency resolution
 Commit 7: Adjust rotation speed slider limits
+Commit 8: Fix audio source node leak when loading new track
