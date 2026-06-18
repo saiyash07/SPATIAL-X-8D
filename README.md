@@ -76,27 +76,7 @@ SPATIAL-X-8D/
 
 ---
 
-## 📦 Getting Started & Commands
-
-### Prerequisites
-Make sure you have Node.js installed on your machine. For Android compilation, Android Studio and JDK are required.
-
-### 1. Installation
-Install root dependencies and all subdirectory dependencies (web & electron) at once:
-```bash
-npm run install:all
-```
-
-### 2. Local Development
-Run the React Vite app and Electron wrapper concurrently:
-```bash
-npm run dev
-```
-
-### 3. Build for Desktop (macOS)
-Compile the web frontend and bundle it into a standalone Electron macOS application:
-```bash
-npm run build:mac
-```
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
 
 
