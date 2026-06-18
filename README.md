@@ -2,6 +2,9 @@
 
 > **"8D music is just a commercial name for 3D/spatial audio. But man, does it sound amazing."**
 
+> [!IMPORTANT]
+> **Please use headphones!** The true 8D spatial sound experience relies on Head-Related Transfer Function (HRTF) audio rendering which directs spatialized channels directly to each ear. This effect cannot be correctly perceived through standard phone or laptop speakers.
+
 Welcome to **SPATIAL-X-8D**! This is my first-ever hybrid mobile (Android) and desktop (macOS) application designed to process and experience any audio in **8D spatial surround sound**. 
 
 This is a personal hobby project created out of a love for listening to 8D music. I wanted a way to turn standard audio files/URLs into full HRTF-based 3D orbital audio, and along the way, I built my first Android app wrapper and macOS desktop application!
@@ -59,6 +62,9 @@ SPATIAL-X-8D/
 * **Vite-to-Electron Asset pipeline**: Build scripts automate rebuilding the web bundle and feeding it directly into Electron's distribution directory.
 
 ---
+
+> [!NOTE]
+> This app works on all songs available in the 8D audio format. The integrated search service automatically appends `8D audio` to queries and targets optimized spatial mixes so that you can find and listen to any of your favorite tracks in 8D.
 
 ## 🛠️ Features
 
