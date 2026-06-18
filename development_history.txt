@@ -32,3 +32,4 @@ Commit 30: Fix background play service crash on Android 12
 Commit 31: Improve performance of CSS transitions inside playlists
 Commit 32: Fix main process window focus state on macOS launch
 Commit 33: Adjust default reverb decay time for spatial depth
+Commit 34: Fix input debounce in song search bar
