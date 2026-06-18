@@ -69,3 +69,4 @@ Commit 67: Fix Android 14 post notification prompt logic
 Commit 68: Optimize memory allocation inside AudioEngine constructor
 Commit 69: Adjust default orbit radius for wider audio imaging
 Commit 70: Fix background webview lifecycle state suspension
+Commit 71: Implement smooth crossfade for play state transition
