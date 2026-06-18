@@ -8,6 +8,18 @@ This is a personal hobby project created out of a love for listening to 8D music
 
 This repository serves as a reference for myself and other developers curious about how to harness Web Audio API spatialization, package it inside Electron, and bridge it to native Android Java background playback.
 
+## 📸 App Showcase
+
+### Desktop App (macOS Wrapper via Electron)
+| Dark Mode | Light Mode |
+| :---: | :---: |
+| ![Desktop Dark Mode](screenshots/desktop_dark.png) | ![Desktop Light Mode](screenshots/desktop_light.png) |
+
+### Mobile App (Android Native Bridge via Capacitor/Java)
+| Dark Mode | Light Mode |
+| :---: | :---: |
+| ![Mobile Dark Mode](screenshots/mobile_dark.png) | ![Mobile Light Mode](screenshots/mobile_light.png) |
+
 ---
 
 ## 🚀 The Tech Stack & Architecture
