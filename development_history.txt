@@ -46,3 +46,4 @@ Commit 44: Fix Android gradle wrapper version configuration
 Commit 45: Update styling for active queue items
 Commit 46: Fix lyrics scroll sync mismatch during fast forward
 Commit 47: Tune reverb wet-dry ratio defaults
+Commit 48: Fix audio output channel config for mono files
