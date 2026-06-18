@@ -1,1 +1,2 @@
 Commit 0: Fix Android background audio cut off
+Commit 1: Update HRTF panning parameters for better orbit sensation
