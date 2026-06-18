@@ -66,3 +66,4 @@ Commit 64: Correct visualizer color gradient styling
 Commit 65: Fix track seek bar focus ring on keyboard tab
 Commit 66: Avoid re-initializing audio engine on theme toggles
 Commit 67: Fix Android 14 post notification prompt logic
+Commit 68: Optimize memory allocation inside AudioEngine constructor
