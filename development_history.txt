@@ -25,3 +25,4 @@ Commit 23: Remove redundant console logs in release mode
 Commit 24: Fix web-to-native message serialization exceptions
 Commit 25: Prevent audio overlapping during quick track skipping
 Commit 26: Implement automated retry for public Piped instances
+Commit 27: Fix dark mode color variables inside lyrics container
