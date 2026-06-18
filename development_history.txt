@@ -64,3 +64,4 @@ Commit 62: Fix media play/pause receiver register leak in Java
 Commit 63: Fix scrollbar thumb width matching design guidelines
 Commit 64: Correct visualizer color gradient styling
 Commit 65: Fix track seek bar focus ring on keyboard tab
+Commit 66: Avoid re-initializing audio engine on theme toggles
