@@ -54,3 +54,4 @@ Commit 52: Fix notification channel category priority in Android
 Commit 53: Optimize webpack/vite build bundling sizes
 Commit 54: Fix theme transition stutter in desktop wrapper
 Commit 55: Correct panner orientation vectors on rotation reset
+Commit 56: Fix sleep timer notification countdown timer UI
