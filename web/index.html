@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="SPATIAL X 8D — Personal 8D Audio Music Player with real-time spatial audio and synced lyrics" />
+    <title>SPATIAL X 8D</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <script>
+      // Stub navigator.mediaSession on mobile/Capacitor to prevent Chromium/YouTube from hijacking native MediaSession controls
+      if (typeof navigator !== 'undefined' && navigator.mediaSession) {
+        try {
+          Object.defineProperty(navigator.mediaSession, 'playbackState', {
+            get: function() { return 'none'; },
+            set: function(val) {}
+          });
+          Object.defineProperty(navigator.mediaSession, 'metadata', {
+            get: function() { return null; },
+            set: function(val) {}
+          });
+          navigator.mediaSession.setActionHandler = function() {};
+          navigator.mediaSession.setPositionState = function() {};
+        } catch (e) {
+          console.warn("Failed to stub navigator.mediaSession:", e);
+        }
+      }
+    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

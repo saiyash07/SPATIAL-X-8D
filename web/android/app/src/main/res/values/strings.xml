@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SPATIAL X 8D</string>
+    <string name="title_activity_main">SPATIAL X 8D</string>
+    <string name="package_name">com.saiyash.spatialx8d</string>
+    <string name="custom_url_scheme">com.saiyash.spatialx8d</string>
+</resources>

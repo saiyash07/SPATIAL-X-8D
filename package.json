@@ -1,0 +1,15 @@
+{
+  "name": "spatial-x-8d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SPATIAL X 8D — Personal 8D Audio Music Player",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix web\" \"wait-on http://localhost:5173 && npm start --prefix electron\"",
+    "build:mac": "npm run build --prefix web && rm -rf electron/dist && cp -R web/dist electron/dist && npm run build --prefix electron",
+    "install:all": "npm install --prefix web && npm install --prefix electron"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "wait-on": "^7.2.0"
+  }
+}
