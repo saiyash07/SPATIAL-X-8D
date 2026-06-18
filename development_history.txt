@@ -59,3 +59,4 @@ Commit 57: Verify background playback permissions on launch
 Commit 58: Implement robust exception logger for MainActivity
 Commit 59: Fix mobile safari tap target sizes
 Commit 60: Resolve electron preload security warnings
+Commit 61: Optimize canvas draw loop when playing state is false
