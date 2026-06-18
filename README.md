@@ -9,7 +9,7 @@ Welcome to **SPATIAL-X-8D**! This is my first-ever hybrid mobile (Android) and d
 
 This is a personal hobby project created out of a love for listening to 8D music. I wanted a way to turn standard audio files/URLs into full HRTF-based 3D orbital audio, and along the way, I built my first Android app wrapper and macOS desktop application!
 
-This repository serves as a reference for myself and other developers curious about how to harness Web Audio API spatialization, package it inside Electron, and bridge it to native Android Java background playback.
+This repository is strictly for my own personal use, archiving the development of my first hybrid mobile and desktop audio player.
 
 ## 📸 App Showcase
 
