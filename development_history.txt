@@ -13,3 +13,4 @@ Commit 11: Fix Capacitor native event listener cleanup
 Commit 12: Optimize marquee text scroll velocity
 Commit 13: Fix playback state crash when no track loaded
 Commit 14: Update Android build.gradle dependencies to stable
+Commit 15: Enable hardware acceleration in Electron window
