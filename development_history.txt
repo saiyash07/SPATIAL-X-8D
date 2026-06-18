@@ -52,3 +52,4 @@ Commit 50: Fix context menu overlay z-index bug
 Commit 51: Handle CORS errors on album art images elegantly
 Commit 52: Fix notification channel category priority in Android
 Commit 53: Optimize webpack/vite build bundling sizes
+Commit 54: Fix theme transition stutter in desktop wrapper
