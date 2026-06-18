@@ -4,3 +4,4 @@ Commit 2: Fix Electron main window preload context bridge
 Commit 3: Optimize convolver reverb buffer creation
 Commit 4: Fix WebView CORS bypass on Android 13+
 Commit 5: Resolve MediaSession synchronization delay
+Commit 6: Improve visualizer frequency resolution
