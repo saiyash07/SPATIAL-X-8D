@@ -1,4 +1,4 @@
-# SPATIAL-X-8D 🎧🌀
+# SPATIAL-X-8D (My first Mobile and Mac App) 🎧🌀
 
 > **"8D music is just a commercial name for 3D/spatial audio. But man, does it sound amazing."**
 
