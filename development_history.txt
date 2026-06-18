@@ -40,3 +40,4 @@ Commit 38: Implement sleep timer background pause integration
 Commit 39: Add exception handling for local yt-dlp execution
 Commit 40: Fix Electron build packaging scripts for macOS
 Commit 41: Fix custom progress bar scrubbing offset on mobile touch
+Commit 42: Resolve memory leak in Web Audio context listeners
