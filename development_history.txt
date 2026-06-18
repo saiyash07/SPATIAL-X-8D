@@ -22,3 +22,4 @@ Commit 20: Improve play/pause state synchronization across wrappers
 Commit 21: Handle network timeouts in Piped API search fetcher
 Commit 22: Fix lock screen play/pause notification listener in Java
 Commit 23: Remove redundant console logs in release mode
+Commit 24: Fix web-to-native message serialization exceptions
